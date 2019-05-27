@@ -1,0 +1,39 @@
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+        <url>
+            <loc>http://t3rtium.net/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://t3rtium.net/artikel/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://t3rtium.net/artikel/erste-schritte/</loc>
+            
+                <lastmod>2019-05-27</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://t3rtium.net/rechtliches/</loc>
+            
+                <lastmod>2019-05-27</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://t3rtium.net/rundmail/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://t3rtium.net/ueber/</loc>
+            
+                <lastmod>2019-05-27</lastmod>
+            
+        </url>
+    
+</urlset>

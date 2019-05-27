@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://t3rtium.net/sitemap.xml
